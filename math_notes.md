@@ -7,6 +7,7 @@
 Least Squares Loss:
 
 Given the prediction, or activation, for some model and a __single__ training example $x$ (which is really $x_i$ from the entire set of examples $I$):
+
 \[ y = x^T\beta + e \]
 
 For $J$ features and $I$ training examples, where:
